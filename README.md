@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-- 🔭 I’m currently working on **QQQ**
 
 - 📝 I regularly write articles:
   - On [Medium](https://medium.com/@simeon.ferez) about programing, data science and AI
