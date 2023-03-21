@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sferez&label=Profile%20views&color=0e75b6&style=flat" alt="sferez" /> </p>
 
 - 📝 I regularly write articles:
   - On [Medium](https://medium.com/@simeon.ferez) about programing, data science and AI
@@ -23,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sferez&show_icons=true&locale=en" alt="sferez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sferez&" alt="sferez" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sferez&show_icons=true&locale=en&layout=compact" alt="sferez" /></p>
