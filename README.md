@@ -11,6 +11,11 @@
 
 ### 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [AWS Cloud Computing w/ Python](https://python.plainenglish.io/aws-cloud-computing-w-python-39fb485aec44?source=rss-5c4383862039------2)
+- [Multiple Linear Regression, Gradient Descent /w Python](https://python.plainenglish.io/multiple-linear-regression-gradient-descent-python-a19d5c41aeae?source=rss-5c4383862039------2)
+- [Simple Linear Regression using Python](https://python.plainenglish.io/simple-linear-regression-using-python-7189f0312d72?source=rss-5c4383862039------2)
+- [Trader Joe, Avalanche’s first DEX: A Complete guide](https://medium.com/coinmonks/trader-joe-guide-23a62e8e34f9?source=rss-5c4383862039------2)
+- [How does compound interest work?](https://medium.com/coinmonks/how-does-compound-interest-work-90253a7dbe81?source=rss-5c4383862039------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📰 Latest CoinAcademy Articles
