@@ -12,6 +12,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Blog
+<!-- blog start -->
+<!-- blog end -->
+
+### Qiita
+<!-- qiita start -->
+<!-- qiita end -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simeon-ferez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simeon-ferez" height="30" width="40" /></a>
