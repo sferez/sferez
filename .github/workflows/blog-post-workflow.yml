@@ -1,39 +1,17 @@
-#name: Latest blog post workflow
-#on:
-#  schedule:
-#    - cron: '0 * * * *'
-#      workflow_dispatch:
-#jobs:
-- name: blog
-  on:
-    schedule:
-      - cron: '0 * * * *'
-        workflow_dispatch:
-  uses: sarisia/actions-readme-feed@v1
-  with:
-    url: "https://medium.com/feed/@simeon.ferez"
-    file: 'README.md'
-    start_flag: "<!-- blog start -->"
-    end_flag: "<!-- blog end -->"
-- name: qiita
-  on:
-    schedule:
-      - cron: '0 * * * *'
-        workflow_dispatch:
-  uses: sarisia/actions-readme-feed@v1
-  with:
-    url: "https://coinacademy:fr/author/sfrzs/feed/"
-    file: 'README.md'
-    start_flag: "<!-- qiita start -->"
-    end_flag: "<!-- qiita end -->"
-#        name: Update this repo's README with latest blog posts
-#        runs-on: ubuntu-latest
-#        steps:
-#            - uses: actions/checkout@v2
-#            - uses: gautamkrishnar/blog-post-workflow@master
-#              with:
-#                max_post_count: "4"
-#                feed_list: "https://medium.com/feed/@simeon.ferez"
+name: Latest Medium story workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-
-
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Medium post
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-STORY-LIST"
+          feed_list: "https://medium.com/feed/@simeon.ferez"

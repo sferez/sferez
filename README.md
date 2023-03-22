@@ -8,17 +8,9 @@
 - 📄 My academic experiences:
   - MSc. Computer Science Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
   - MEng. General Engineering at [ECAM Strasbourg](https://icam-strasbourg.eu/en/)
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### Blog
-<!-- blog start -->
-<!-- blog end -->
-
-### Qiita
-<!-- qiita start -->
-<!-- qiita end -->
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
