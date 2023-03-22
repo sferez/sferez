@@ -3,8 +3,7 @@ on:
     schedule:
         - cron: '0 * * * *'
           workflow_dispatch:
-jobs: 
-    update-readme-with-blog:
+jobs:
       - name: blog
         uses: sarisia/actions-readme-feed@v1
         with:
