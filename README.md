@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/simeon-ferez" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@simeon.ferez" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+    <a href="https://coinacademy.fr/author/sfrzs" target="_blank">
+    <img src="https://img.shields.io/badge/CoinAcademy-%2312100E.svg?&style=for-the-badge&logoColor=white&color=071A2C" alt="CoinAcademy"/>
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sferez&label=Profile%20views&color=0e75b6&style=flat" alt="sferez" /> </p>
 
 ### 📄 My academic experiences:
