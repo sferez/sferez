@@ -1,23 +1,31 @@
-name: Latest blog post workflow
-on: 
+#name: Latest blog post workflow
+#on:
+#  schedule:
+#    - cron: '0 * * * *'
+#      workflow_dispatch:
+#jobs:
+- name: blog
+  on:
     schedule:
-        - cron: '0 * * * *'
-          workflow_dispatch:
-jobs:
-      - name: blog
-        uses: sarisia/actions-readme-feed@v1
-        with:
-          url: "https://medium.com/feed/@simeon.ferez"
-          file: 'README.md'
-          start_flag: "<!-- blog start -->"
-          end_flag: "<!-- blog end -->"
-      - name: qiita
-        uses: sarisia/actions-readme-feed@v1
-        with:
-          url: "https://coinacademy:fr/author/sfrzs/feed/"
-          file: 'README.md'
-          start_flag: "<!-- qiita start -->"
-          end_flag: "<!-- qiita end -->"
+      - cron: '0 * * * *'
+        workflow_dispatch:
+  uses: sarisia/actions-readme-feed@v1
+  with:
+    url: "https://medium.com/feed/@simeon.ferez"
+    file: 'README.md'
+    start_flag: "<!-- blog start -->"
+    end_flag: "<!-- blog end -->"
+- name: qiita
+  on:
+    schedule:
+      - cron: '0 * * * *'
+        workflow_dispatch:
+  uses: sarisia/actions-readme-feed@v1
+  with:
+    url: "https://coinacademy:fr/author/sfrzs/feed/"
+    file: 'README.md'
+    start_flag: "<!-- qiita start -->"
+    end_flag: "<!-- qiita end -->"
 #        name: Update this repo's README with latest blog posts
 #        runs-on: ubuntu-latest
 #        steps:
