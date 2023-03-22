@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sferez&label=Profile%20views&color=0e75b6&style=flat" alt="sferez" /> </p>
 
-- 📝 I regularly write articles:
-  - On [Medium](https://medium.com/@simeon.ferez) about programing, data science and AI
-  - On [CoinAcademy](https://coinacademy.fr/author/sfrzs/) about blockchain technologies
-
 - 📄 My academic experiences:
   - MSc. Computer Science Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
   - MEng. General Engineering at [ECAM Strasbourg](https://icam-strasbourg.eu/en/)
+
+- 📝 I regularly write articles:
+  - On [Medium](https://medium.com/@simeon.ferez) about programing, data science and AI
+  - On [CoinAcademy](https://coinacademy.fr/author/sfrzs/) about blockchain technologies
 
 ### 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->

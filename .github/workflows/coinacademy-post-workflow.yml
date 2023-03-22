@@ -16,3 +16,4 @@ jobs:
         with:
           comment_tag_name: "COINACADEMY-STORY-LIST"
           feed_list: 'https://coinacademy.fr/author/sfrzs/feed/'
+          max_post_count: 3

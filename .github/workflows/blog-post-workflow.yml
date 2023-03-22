@@ -16,3 +16,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: 'https://medium.com/@simeon.ferez/feed'
+          max_post_count: 3
