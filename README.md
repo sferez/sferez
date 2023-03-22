@@ -27,6 +27,9 @@
 
 ### 📰 Latest CoinAcademy Articles [FR]
 <!-- COINACADEMY-STORY-LIST:START -->
+- [Actualités crypto de la semaine du 13 Mars 2023 : Coin Hebdo #89](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-89/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-89)
+- [Actualités crypto de la semaine du 6 Mars 2023 : Coin Hebdo #88](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-88/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-88)
+- [Actualités crypto de la semaine du 27 Février 2023 : Coin Hebdo #87](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-87/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-87)
 <!-- COINACADEMY-STORY-LIST:END -->
 
 ### 🛠️ Current projects:
