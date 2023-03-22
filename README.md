@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/simeon-ferez" target="_blank">
+  <a href="https://www.linkedin.com/in/simeon-ferez/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@simeon.ferez" target="_blank">
