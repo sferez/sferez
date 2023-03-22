@@ -1,4 +1,6 @@
 name: Latest Medium story workflow
+with:
+  branch: main
 on:
   schedule:
     # Runs every hour
