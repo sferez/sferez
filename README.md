@@ -27,10 +27,16 @@
 
 ### 📚 Latest Medium Stories [EN]
 <!-- MEDIUM-STORY-LIST:START -->
+- [AWS Cloud Computing w/ Python](https://python.plainenglish.io/aws-cloud-computing-w-python-39fb485aec44?source=rss-5c4383862039------2)
+- [Multiple Linear Regression, Gradient Descent /w Python](https://python.plainenglish.io/multiple-linear-regression-gradient-descent-python-a19d5c41aeae?source=rss-5c4383862039------2)
+- [Simple Linear Regression using Python](https://python.plainenglish.io/simple-linear-regression-using-python-7189f0312d72?source=rss-5c4383862039------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📰 Latest CoinAcademy Articles [FR]
 <!-- COINACADEMY-STORY-LIST:START -->
+- [Actualités crypto de la semaine du 13 Mars 2023 : Coin Hebdo #89](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-89/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-89)
+- [Actualités crypto de la semaine du 6 Mars 2023 : Coin Hebdo #88](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-88/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-88)
+- [Actualités crypto de la semaine du 27 Février 2023 : Coin Hebdo #87](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-87/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-87)
 <!-- COINACADEMY-STORY-LIST:END -->
 
 ---
