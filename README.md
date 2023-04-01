@@ -34,9 +34,9 @@
 
 ### 📰 Latest CoinAcademy Articles [FR]
 <!-- COINACADEMY-STORY-LIST:START -->
+- [Qu’est-ce que la difficulté de minage ?](https://coinacademy.fr/difficulte-minage-mining-bitcoin-hash/?utm_source=rss&utm_medium=rss&utm_campaign=difficulte-minage-mining-bitcoin-hash)
 - [Actualités crypto de la semaine du 20 Mars 2023 : Coin Hebdo #90](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-90/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-90)
 - [Actualités crypto de la semaine du 13 Mars 2023 : Coin Hebdo #89](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-89/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-89)
-- [Actualités crypto de la semaine du 6 Mars 2023 : Coin Hebdo #88](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-88/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-88)
 <!-- COINACADEMY-STORY-LIST:END -->
 
 ---
