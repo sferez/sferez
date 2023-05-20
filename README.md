@@ -43,6 +43,11 @@
 
 ### 🛠️ Current projects:
 
+#### 📚Master thesis: Noisy Entropy Estimation and Language Modelling
+  - Collect multilingual social media and computer language data
+  - Estimate the information entropy, focusing on unigrams, n-grams, and entropy rates
+  - Further work includes noisy language modelling and entry rate determination
+
 #### 📈 Crypto-currency bots on [Harmony](https://harmony.one/) blockchain
   - Currently have 3 bots running on mainnet
     - 1 Bot providing liquidity on DEX (Decentralized Exchange)
@@ -51,9 +56,6 @@
 
 #### 🗞️ CLI for [BYBIT](https://www.bybit.com/) crypto-currency exchange for news trading
   - Software up and running allowing a fast and easy access to all derivatives markets
-
-#### ✳︎ Complex network analysis using Machine Learning
-  - Currently working on a group project providing a effective software solution to complex network analysis using Machine Learning and Deep Learning approaches for resilience, vulnerability, and prediction of complex networks.
 
 #### 🔑 Vanity blockchain address generator
   - Vanity address generator on High Performance Computing (HPC) cluster using C++.
