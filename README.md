@@ -43,7 +43,7 @@
 
 ### 🛠️ Current projects:
 
-#### 📚Master thesis: Noisy Entropy Estimation and Language Modelling
+#### 📚 Master thesis: Noisy Entropy Estimation and Language Modelling
   - Collect multilingual social media and computer language data
   - Estimate the information entropy, focusing on unigrams, n-grams, and entropy rates
   - Further work includes noisy language modelling and entry rate determination
