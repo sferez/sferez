@@ -27,16 +27,16 @@
 
 ### 📚 Latest Medium Stories [EN]
 <!-- MEDIUM-STORY-LIST:START -->
+- [Sparse Matrix-Vector Product: OpenMP vs CUDA on Hybrid Platforms](https://medium.com/@simeon.ferez/sparse-matrix-vector-product-openmp-vs-cuda-on-hybrid-platforms-7ef576fbfc0d?source=rss-5c4383862039------2)
+- [Solving the Traveling Salesman Problem with Parallel Computing](https://medium.com/@simeon.ferez/solving-the-traveling-salesman-problem-with-parallel-computing-305f8324515d?source=rss-5c4383862039------2)
 - [AWS Cloud Computing w/ Python](https://python.plainenglish.io/aws-cloud-computing-w-python-39fb485aec44?source=rss-5c4383862039------2)
-- [Multiple Linear Regression, Gradient Descent /w Python](https://python.plainenglish.io/multiple-linear-regression-gradient-descent-python-a19d5c41aeae?source=rss-5c4383862039------2)
-- [Simple Linear Regression using Python](https://python.plainenglish.io/simple-linear-regression-using-python-7189f0312d72?source=rss-5c4383862039------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📰 Latest CoinAcademy Articles [FR]
 <!-- COINACADEMY-STORY-LIST:START -->
-- [Actualités crypto de la semaine du 13 Mars 2023 : Coin Hebdo #89](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-89/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-89)
-- [Actualités crypto de la semaine du 6 Mars 2023 : Coin Hebdo #88](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-88/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-88)
-- [Actualités crypto de la semaine du 27 Février 2023 : Coin Hebdo #87](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-87/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-87)
+- [Actualités crypto de la semaine du 27 Mars 2023 : Coin Hebdo #91](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-91/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-91)
+- [Qu’est-ce que la difficulté de minage ?](https://coinacademy.fr/academie/difficulte-minage-mining-bitcoin-hash/?utm_source=rss&utm_medium=rss&utm_campaign=difficulte-minage-mining-bitcoin-hash)
+- [Actualités crypto de la semaine du 20 Mars 2023 : Coin Hebdo #90](https://coinacademy.fr/actu/coin-hebdo/coin-hebdo-90/?utm_source=rss&utm_medium=rss&utm_campaign=coin-hebdo-90)
 <!-- COINACADEMY-STORY-LIST:END -->
 
 ---
