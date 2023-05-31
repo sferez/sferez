@@ -47,6 +47,7 @@
   - Collect multilingual social media and computer language data
   - Estimate the information entropy, focusing on unigrams, n-grams, and entropy rates
   - Further work includes noisy language modelling and entry rate determination
+  - See repository (work in progress) [here](https://github.com/sferez/Noisy_Entropy_Estimation)
 
 #### 📈 Crypto-currency bots on [Harmony](https://harmony.one/) blockchain
   - Currently have 3 bots running on mainnet
