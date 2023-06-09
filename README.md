@@ -53,7 +53,7 @@
   - An all-in-one solution designed to simplify data acquisition, preprocessing, and analysis using Twitter data.
   - NLP Capabilities: Includes sentiment analysis, topic analysis, and named entity recognition.
   - Collaborative Platform: Open for contributions and feedback, enabling continuous evolution and improvement.
-  - - See repository (work in progress) [here](https://github.com/sferez/Twitter_Toolbox)
+  - See repository (work in progress) [here](https://github.com/sferez/Twitter_Toolbox)
 
 #### 📈 Crypto-currency bots on [Harmony](https://harmony.one/) blockchain
   - Currently have 3 bots running on mainnet
