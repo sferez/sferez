@@ -27,9 +27,9 @@
 
 ### 📚 Latest Medium Stories [EN]
 <!-- MEDIUM-STORY-LIST:START -->
+- [EP1 Twitter Toolbox: Your Guide to Real-Time Tweet Streaming](https://python.plainenglish.io/ep1-twitter-toolbox-17436c8ba4e6?source=rss-5c4383862039------2)
 - [Reimagining Medical Diagnostics with AI](https://python.plainenglish.io/reimagining-medical-diagnostics-with-ai-19713a0bc640?source=rss-5c4383862039------2)
 - [Sparse Matrix-Vector Product: OpenMP vs CUDA on Hybrid Platforms](https://medium.com/@simeon.ferez/sparse-matrix-vector-product-openmp-vs-cuda-on-hybrid-platforms-7ef576fbfc0d?source=rss-5c4383862039------2)
-- [Solving the Traveling Salesman Problem with Parallel Computing](https://medium.com/@simeon.ferez/solving-the-traveling-salesman-problem-with-parallel-computing-305f8324515d?source=rss-5c4383862039------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📰 Latest CoinAcademy Articles [FR]
