@@ -43,11 +43,18 @@
 
 ### 🛠️ Current projects:
 
-#### 📚 Master thesis: Noisy Entropy Estimation and Language Modelling
-  - Collect multilingual social media and computer language data
-  - Estimate the information entropy, focusing on unigrams, n-grams, and entropy rates
-  - Further work includes noisy language modelling and entry rate determination
-  - See repository (work in progress) [here](https://github.com/sferez/Noisy_Entropy_Estimation)
+#### 📰 Crypto News Trading powered by AI
+  - Leverage Artificial Intelligence to continuously monitor and scan news feeds
+  - Extract and identify stock tickers and project mentions from news content
+  - Evaluate the potential impact strength of the news and predict its directional movement
+  - Initiate and manage trades on Bybit and Rollbit based on the news analysis
+
+#### 🛎️ [Rollbit](https://rollbit.com/) Limit Order
+  - Seamlessly track asset prices with Binance and Bybit APIs
+  - Execute high-leverage orders (x100-x500) on Rollbit when the asset price meets the predefined target
+  - Harness the benefits of Rollbit's high leverage options and enable both limit and stop trading
+  - ➡️ Strategically snipe bottoms and supports with confidence using optimal leverage
+
 
 #### 🐦 Twitter Toolbox
   - An all-in-one solution designed to simplify data acquisition, preprocessing, and analysis using Twitter data.
