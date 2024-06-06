@@ -27,9 +27,9 @@
 
 ### 📚 Latest Medium Stories [EN]
 <!-- MEDIUM-STORY-LIST:START -->
-- [EP2 Twitter Toolbox: Your Ultimate Guide to Data Scraping](https://medium.com/@simeon.ferez/ep2-twitter-toolbox-your-ultimate-guide-to-data-scraping-fa9f7aa18b23?source=rss-5c4383862039------2)
-- [EP1 Twitter Toolbox: Your Guide to Real-Time Tweet Streaming](https://medium.com/@simeon.ferez/ep1-twitter-toolbox-17436c8ba4e6?source=rss-5c4383862039------2)
-- [Reimagining Medical Diagnostics with AI](https://medium.com/@simeon.ferez/reimagining-medical-diagnostics-with-ai-19713a0bc640?source=rss-5c4383862039------2)
+- [EP2 Twitter Toolbox: Your Ultimate Guide to Data Scraping](https://python.plainenglish.io/ep2-twitter-toolbox-your-ultimate-guide-to-data-scraping-fa9f7aa18b23?source=rss-5c4383862039------2)
+- [EP1 Twitter Toolbox: Your Guide to Real-Time Tweet Streaming](https://python.plainenglish.io/ep1-twitter-toolbox-17436c8ba4e6?source=rss-5c4383862039------2)
+- [Reimagining Medical Diagnostics with AI](https://python.plainenglish.io/reimagining-medical-diagnostics-with-ai-19713a0bc640?source=rss-5c4383862039------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### 📰 Latest CoinAcademy Articles [FR]
