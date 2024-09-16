@@ -43,7 +43,7 @@
 ### 📄 My academic experiences:
   - **Master of Science**: Computer Science Data Analytics at [Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)
     - Computational Intelligence for Data Analytics: Machine Learning, Artificial Intelligence, HPC, Cloud Computing, Big Data, 
-  - **Master of Engineering**: General Engineering at [ECAM Strasbourg](https://icam-strasbourg.eu/en/)
+  - **Master of Engineering**: General Engineering at [ECAM Strasbourg](https://www.ecam.fr/en/)
     - Core modules: Industry, Informatics, Agile Methodology, Mechanics, Electronics, Project Management, Lean Methodology.
 
 ---
