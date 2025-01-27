@@ -15,19 +15,19 @@
 ### 💼 I'm Working With:
 
 <p align="center">
-  <a href="https://groupfpc.com" target="_blank">
-    <img src="https://www.groupfpc.com/Txt_Up_Gradient_Icon.svg" alt="FPC" height="60px"/>
-  </a>
-  <br />
-  <em>Your partner in digital transformation and innovative solutions, from strategy to execution.</em>
-</p>
-
-<p align="center">
   <a href="https://scalepost.ai" target="_blank">
     <img src="https://framerusercontent.com/images/2L7iY2YnmxeBgK8MsGbiiHxRM4g.png" alt="ScalePost AI" height="60px" style="background-color: #fcfbeb; border-radius: 10px;"/>
   </a>
   <br />
   <em>Marketplace that helps news media & publishers monetize content via partnerships with GenAI companies.</em>
+</p>
+
+<p align="center">
+  <a href="https://groupfpc.com" target="_blank">
+    <img src="https://www.groupfpc.com/Txt_Up_Gradient_Icon.svg" alt="FPC" height="60px"/>
+  </a>
+  <br />
+  <em>Your partner in digital transformation and innovative solutions, from strategy to execution.</em>
 </p>
 
 <p align="center">
